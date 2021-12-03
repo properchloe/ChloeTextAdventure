@@ -1,3 +1,4 @@
 import AdventureClasses
 
-# starting out!
+def start_game():
+    pass
